@@ -1,6 +1,4 @@
-# Web3 Trading Team – Data Science Assignment
-
-## 📌 Project: Trader Behavior vs Market Sentiment Analysis
+# 📌 Project: Trader Behavior vs Market Sentiment Analysis
 
 ### 👤 Candidate: Abhay Mittal
 
@@ -74,4 +72,5 @@ Goal: Extract actionable insights to identify patterns in profitability, leverag
 ---
 
 Thank you for the opportunity!
+
 
